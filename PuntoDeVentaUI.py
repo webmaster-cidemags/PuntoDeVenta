@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 
+#Añadir datos
 # Datos iniciales
 stock1 = ["Truza", 0.99, 5000, True]
 stock2 = ["Sudadera", 199.90, 500, False]

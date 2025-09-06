@@ -1,0 +1,21 @@
+nombre,precio,cantidad,disponible
+Camiseta Básica,15.99,150,True
+Jeans Clásicos,45.50,80,True
+Abrigo de Invierno,89.99,25,True
+Vestido Casual,35.75,60,True
+Sudaderas con Capucha,42.25,45,True
+Shorts Deportivos,22.99,120,True
+Blusa Elegante,38.50,70,True
+Chaqueta de Cuero,120.00,15,True
+Falda Lápiz,29.99,90,True
+Polo Clásico,25.50,110,True
+Traje de Baño,34.75,50,True
+Gorra Deportiva,18.25,200,True
+Bufanda de Lana,19.99,180,True
+Guantes de Piel,32.50,75,True
+Cinturón de Cuero,27.99,130,True
+Zapatos Casuales,55.00,40,True
+Botas de Montaña,78.50,30,True
+Sandalias de Verano,29.25,85,True
+Bolso Tote,45.75,55,True
+Mochila Urbana,52.99,65,True
